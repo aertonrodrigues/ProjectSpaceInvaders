@@ -1,4 +1,4 @@
-# Space invaders
+# Project Space invaders
 
 Projeto feito para estudo e familirização com Javascript. 
 
@@ -23,4 +23,4 @@ Projeto feito para estudo e familirização com Javascript.
 
 
 ---
-# Project-Space-Invaders
+
